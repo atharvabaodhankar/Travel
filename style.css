@@ -32,7 +32,7 @@ html {
 
 /* Hero */
 #hero {
-    background-image: url(/img/header-bg.png);
+    background-image: url(img/header-bg.png);
     background-position: center bottom;
     background-size: cover;
     background-repeat: no-repeat;
@@ -248,7 +248,7 @@ nav button:hover {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background-image: url(/img/bg2.png);
+    background-image: url(img/bg2.png);
     height: 90vh;
     background-position: center;
     background-size: cover;
